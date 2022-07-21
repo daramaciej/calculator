@@ -96,15 +96,4 @@ equalsButton.addEventListener('click', () => operate())
 
 
 
-/**
- * - wybieramy 2
- * - wybieramy operator (zapisuje 2 w zmiennej i operator w zmiennej)
- * - wybieramy 2
- * - wybieramy operator (sprawdzamy czy jest zapisana jakas liczba w poprzedniej zmiennej
- *      ** jesli jest to wykoujemy operacje
- */
-
-
-
-
 

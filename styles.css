@@ -30,7 +30,7 @@ body {
     align-content: center;
     grid-template-columns: repeat(4, 4em);
     grid-template-rows: minmax(4em, auto) repeat(5, 4em);
-    grid-gap: 1px;
+    grid-gap: 4px;
 }
 
 #display {
@@ -46,6 +46,16 @@ body {
 
 .span-two {
     grid-column: span 2;
+    border: 2px #333 solid;
+    border-radius: 5px;
+    background-color: #faa;
+    cursor: pointer;
+}
+
+.btn {
+    border: 2px #333 solid;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
 .footer {
