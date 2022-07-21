@@ -58,3 +58,9 @@ body {
     gap: 10px;
     width: 100%;
   }
+
+  .fa-github {
+    color: #000000;
+    font-size: 24px;
+    transition: transform 0.3s ease-in-out;
+  }
